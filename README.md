@@ -1,6 +1,7 @@
 # Vue-Chatkit ( Version: 1.0 )
 本项目为一个实时聊天的应用程序，前端主要使用了 Vue + Vuex + VueRouter 的全家桶进行构建，后端则是使用了由 [Pusher](https://dash.pusher.com/) 提供的 `Chatkit` 服务(一个完整的聊天后端服务)，以使得我们只需关心如何构建前端用户界面。
 
+![Image text](https://github.com/GRPdream/chatkit/blob/master/src/readme-img/preview.png)
 
 ## 使用步骤
 1. 克隆代码仓库
@@ -19,5 +20,5 @@
 ## 后续改进
 1. 增加撤回消息功能
 
-## changelog
+## Changelog
 1.0 : 完成聊天室基本功能 
