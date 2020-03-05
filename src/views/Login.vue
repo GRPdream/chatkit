@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <b-jumbotron header="Vue.js Chat"
+    <b-jumbotron header="Vue-Chatkit"
                  lead="Powered by Chatkit SDK and Bootstrap-Vue"
                  bg-variant="info"
                  text-variant="white"
